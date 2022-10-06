@@ -6,3 +6,11 @@ C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\SortingAlgorith
 C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\SortingAlgorithms\bin\Debug\SimpleSort.pdb
 C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\SortingAlgorithms\obj\Debug\SimpleSort.exe
 C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\SortingAlgorithms\obj\Debug\SimpleSort.pdb
+C:\Users\parth\Documents\GitHub\SortingAlgorithms\SortingAlgorithms\SortingAlgorithms\bin\Debug\SimpleSort.exe.config
+C:\Users\parth\Documents\GitHub\SortingAlgorithms\SortingAlgorithms\SortingAlgorithms\bin\Debug\SimpleSort.exe
+C:\Users\parth\Documents\GitHub\SortingAlgorithms\SortingAlgorithms\SortingAlgorithms\bin\Debug\SimpleSort.pdb
+C:\Users\parth\Documents\GitHub\SortingAlgorithms\SortingAlgorithms\SortingAlgorithms\obj\Debug\SimpleSort.csproj.AssemblyReference.cache
+C:\Users\parth\Documents\GitHub\SortingAlgorithms\SortingAlgorithms\SortingAlgorithms\obj\Debug\SimpleSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\parth\Documents\GitHub\SortingAlgorithms\SortingAlgorithms\SortingAlgorithms\obj\Debug\SimpleSort.csproj.CoreCompileInputs.cache
+C:\Users\parth\Documents\GitHub\SortingAlgorithms\SortingAlgorithms\SortingAlgorithms\obj\Debug\SimpleSort.exe
+C:\Users\parth\Documents\GitHub\SortingAlgorithms\SortingAlgorithms\SortingAlgorithms\obj\Debug\SimpleSort.pdb
