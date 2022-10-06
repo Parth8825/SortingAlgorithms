@@ -1,0 +1,8 @@
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\BubbleSort\bin\Debug\BubbleSort.exe
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\BubbleSort\obj\Debug\BubbleSort.csproj.AssemblyReference.cache
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\BubbleSort\obj\Debug\BubbleSort.csproj.SuggestedBindingRedirects.cache
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\BubbleSort\obj\Debug\BubbleSort.exe
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\BubbleSort\obj\Debug\BubbleSort.pdb

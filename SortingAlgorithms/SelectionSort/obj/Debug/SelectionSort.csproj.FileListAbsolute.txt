@@ -1,0 +1,8 @@
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\SelectionSort\bin\Debug\SelectionSort.exe
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\SelectionSort\obj\Debug\SelectionSort.csproj.AssemblyReference.cache
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\SelectionSort\obj\Debug\SelectionSort.csproj.SuggestedBindingRedirects.cache
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\SelectionSort\obj\Debug\SelectionSort.csproj.CoreCompileInputs.cache
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\SelectionSort\obj\Debug\SelectionSort.exe
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\SelectionSort\obj\Debug\SelectionSort.pdb

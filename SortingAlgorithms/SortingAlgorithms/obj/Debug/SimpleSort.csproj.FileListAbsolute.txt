@@ -1,0 +1,8 @@
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\SortingAlgorithms\obj\Debug\SimpleSort.csproj.AssemblyReference.cache
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\SortingAlgorithms\obj\Debug\SimpleSort.csproj.SuggestedBindingRedirects.cache
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\SortingAlgorithms\obj\Debug\SimpleSort.csproj.CoreCompileInputs.cache
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\SortingAlgorithms\bin\Debug\SimpleSort.exe.config
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\SortingAlgorithms\bin\Debug\SimpleSort.exe
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\SortingAlgorithms\bin\Debug\SimpleSort.pdb
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\SortingAlgorithms\obj\Debug\SimpleSort.exe
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\SortingAlgorithms\obj\Debug\SimpleSort.pdb

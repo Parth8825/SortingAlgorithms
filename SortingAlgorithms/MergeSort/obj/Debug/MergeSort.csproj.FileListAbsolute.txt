@@ -1,0 +1,8 @@
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\MergeSort\bin\Debug\MergeSort.exe.config
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\MergeSort\bin\Debug\MergeSort.exe
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\MergeSort\bin\Debug\MergeSort.pdb
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\MergeSort\obj\Debug\MergeSort.csproj.AssemblyReference.cache
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\MergeSort\obj\Debug\MergeSort.csproj.SuggestedBindingRedirects.cache
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\MergeSort\obj\Debug\MergeSort.exe
+C:\career_course practical\Shorting_Algorithms\SortingAlgorithms\MergeSort\obj\Debug\MergeSort.pdb
